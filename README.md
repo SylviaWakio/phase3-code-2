@@ -117,3 +117,7 @@ Some of the methods listed are provided to you in the starter code. You should c
 - `Restaurant average_star_rating()`
   - returns the average star rating for a restaurant based on its reviews
   - Reminder: you can calculate the average by adding up all the ratings and dividing by the number of ratings
+###DEPLOYED
+https://app.netlify.com/sites/stunning-bublanina-04cd35/overview
+
+linscence used (MIT)
